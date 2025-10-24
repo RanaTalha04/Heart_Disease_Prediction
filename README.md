@@ -13,7 +13,7 @@ This project uses supervised learning algorithms to analyze patient data and pre
 ---
 
 ## 🌐 Live Demo
-🚀 **Try it here:** [Heart Disease Prediction App](https://your-streamlit-app-link.streamlit.app/) 
+🚀 **Try it here:** [Heart Disease Prediction App](https://heart-disease-prediction-0.streamlit.app/) 
 
 ---
 
