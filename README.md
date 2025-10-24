@@ -82,18 +82,21 @@ The dataset contains various medical attributes such as:
 ---
 
 ## 📂 Project Structure
-Heart-Disease-Prediction/
-│
-├── DataSet/
-│ └── heart.csv
-├── venv/
-├── app.py
-├── heart_disease_prediction.ipynb
-├── columns.pkl
-├── LR_Heart.pkl
-├── Scaler.pkl
-├── README.md
-└── requirements.txt
+1. The project structure I have:
+   ```bash
+
+   Heart-Disease-Prediction/
+   │
+   ├── DataSet/
+   │ └── heart.csv
+   ├── venv/
+   ├── app.py
+   ├── heart_disease_prediction.ipynb
+   ├── columns.pkl
+   ├── LR_Heart.pkl
+   ├── Scaler.pkl
+   ├── README.md
+   └── requirements.txt
 
 
 ---
@@ -114,7 +117,7 @@ Heart-Disease-Prediction/
      
 4. Run the Jupyter Notebook:
 
-   After installing all the dependencies in the virtual environment, open the notebook and select the virtual environment as your kernel and select it and run all the cells.     
+   After installing all the dependencies in the virtual environment, open the notebook and select the virtual environment as your kernel, select this virtual environment, and then run all the cells.     
 
 ## 📘 Future Improvements
 
@@ -127,6 +130,6 @@ Heart-Disease-Prediction/
 Final-year Computer Science student at UET Lahore  
 
 📫 [Email](mailto:muhammadtalhashahid2005@gmail.com)  
-🌐 [Portfolio 🌍](https://talhashahid.netlify.app)  
+🌐 [Portfolio](https://talhashahid.netlify.app)  
 💼 [LinkedIn](https://www.linkedin.com/in/muhammadtaalhaa/)  
 💻 [GitHub](https://github.com/RanaTalha04)
