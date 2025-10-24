@@ -72,10 +72,10 @@ The dataset contains various medical attributes such as:
 | Model | Accuracy | F1-Score |
 |--------|-----------|-----------|
 | Logistic Regression | 0.87 | 0.88 |
-| Decision Tree | 0.79 | 0.81 |
-| Naive Bayes | 0.85 | 0.86 |
-| SVM | 0.85 | 0.87 |
 | KNN | 0.86 | 0.88 |
+| SVM | 0.85 | 0.87 |
+| Naive Bayes | 0.85 | 0.86 |
+| Decision Tree | 0.79 | 0.81 |
 
 > Logistic Regression achieved the best overall performance with **87% accuracy**.
 
